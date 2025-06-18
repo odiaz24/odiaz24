@@ -21,8 +21,6 @@ Soy Técnico en Doble Grado Superior en Desarrollo de Aplicaciones Web (DAW) y A
 - 👯 Me gustaria colaborar en proyectos open source.
 - ✔  Pregúntame lo que quieras, ¡estaré encantado de ayudarte!
 - Fuera del mundo tech, me encanta viajar✈️, jugar videojuegos 🎮 y escuchar música 🎵.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Para más sobre mí: <a href="https://odiaz24.github.io/">Mi portafolio!</a>
 
 ## 🧰 Mis Skills
 
