@@ -71,12 +71,15 @@ Soy Técnico en Doble Grado Superior en Desarrollo de Aplicaciones Web (DAW) y A
 **Tecnologías:** Python · Selenium  
 **Nota final:** 8  
 **Autores:** Oscar Díaz Gálvez & Unai González Cardoso
+📎 [Ver proyecto](https://github.com/uunaii16/TFG_OU_2425)
 
 ### 🌐 Portfolio Personal  
 Sitio web que muestra mis proyectos y habilidades.  
 **Stack:** Astro · Tailwind CSS  
-📎 [Ver proyecto](#)
+📎 [Ver proyecto](https://github.com/odiaz24/odiaz24.github.io)
 
 ### ☕ Java Projects  
-Conjunto de desarrollos en Java durante mi formación.  
+Conjunto de desarrollos en Java durante mi formación.
+**Tecnologías:** Java  
 **Entorno:** Eclipse
+📎 [Ver proyecto](https://github.com/odiaz24/JAVA-PROJECTS)
