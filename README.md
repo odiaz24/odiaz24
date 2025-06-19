@@ -91,7 +91,7 @@ Sitio web que muestra mis proyectos y habilidades.
 📎 [Ver proyecto](https://github.com/odiaz24/odiaz24.github.io)
 
 ### ☕ Java Projects  
-Conjunto de desarrollos en Java durante mi formación.
+Conjunto de desarrollos en Java durante mi formación. <br>
 **Tecnologías:** Java  
 **Entorno:** Eclipse
 📎 [Ver proyecto](https://github.com/odiaz24/JAVA-PROJECTS)
