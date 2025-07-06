@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Full%20Stack%20%20and%20QA%20Tester☕❤️&font=Fira%20Code&width=440&height=45&pause=2000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=💻 Desarrollador%20Web%20and%20%20QA%20✅ QA%20Tester&font=Fira%20Code&width=440&height=45&pause=2000">
 </p>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
